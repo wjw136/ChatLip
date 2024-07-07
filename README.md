@@ -31,10 +31,12 @@ This project ensembles two open-source project, [ChaTTS](https://github.com/2noi
 
 </tr>
 <tr>
-<td align="center">
-<video controls  width="200" height="200">
+<td align="center"  width="200" height="200">
+<!-- <video controls  width="200" height="200">
   <source src="./data/example/one.mp4" type="video/mp4">
-</video>
+</video> -->
+
+[![video](./data/example/one.mp4)](./data/example/one.mp4)
 
 </td>
 <td align="center" width="200" height="200">
@@ -46,17 +48,21 @@ This project ensembles two open-source project, [ChaTTS](https://github.com/2noi
 </td>
 <td align="center" width="200" height="200">
 
-<video controls  width="200" height="200">
+<!-- <video controls  width="200" height="200">
   <source src="./data/example/one_process.mp4" type="video/mp4">
-</video>
+</video> -->
+
+[![video](./data/example/one_process.mp4)](./data/example/one_process.mp4)
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<video controls  width="200" height="200">
+<td align="center" width="200" height="200">
+<!-- <video controls  width="200" height="200">
   <source src="./data/example/two.mp4" type="video/mp4">
-</video>
+</video> -->
+
+[![video](./data/example/two.mp4)](./data/example/two.mp4)
 
 </td>
 <td align="center" width="200" height="200">
@@ -67,9 +73,10 @@ This project ensembles two open-source project, [ChaTTS](https://github.com/2noi
 </td>
 <td align="center" width="200" height="200">
 
-<video controls  width="200" height="200">
+<!-- <video controls  width="200" height="200">
   <source src="./data/example/two_process.mp4" type="video/mp4">
-</video>
+</video> -->
+[![video](./data/example/two_process.mp4)](./data/example/two_process.mp4)
 </td>
 </tr>
 </table>
