@@ -8,7 +8,7 @@ A comprehensive model for voice-driven lip movement generation.
 
 
 ## Introduction
-This project ensembles two open-source project, [ChaTTS](https://github.com/2noise/ChatTTS) and [EasyWav2Lip](https://github.com/anothermartz/Easy-Wav2Lip).
+This project ensembles two open-source project, [ChatTTS](https://github.com/2noise/ChatTTS) and [EasyWav2Lip](https://github.com/anothermartz/Easy-Wav2Lip).
 
 ## Get Started
 ### Environment Setup
